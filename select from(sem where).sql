@@ -1,0 +1,1 @@
+select * from `db_lucas`. `tbl_nomes`;
